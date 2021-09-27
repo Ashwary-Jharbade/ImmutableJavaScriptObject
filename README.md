@@ -1,4 +1,4 @@
-### Immutable JavaScript Object
+### JavaScript Immutable Object Implementation
 
 #### Created a immutable object 
 #### Created a non keys extensionable object (only allows object values modification)
